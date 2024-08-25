@@ -9,3 +9,5 @@ Python libraries used in this project:
 6. tkinter: This is Python's de-facto standard GUI (Graphical User Interface) package. It is a thin object-oriented layer on top of Tcl/Tk. You don't need to install it separately if you're using a standard Python installation, as it comes bundled with most standard Python distributions. However, if you're using a virtual environment, you might need to install it using your OS's package manager or by using pip install tk (for some environments).
 7. Pillow (PIL): pip install pillow
 
+IDE: Pycharm
+
